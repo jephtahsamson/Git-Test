@@ -6,6 +6,7 @@ class Algebra{
     // plotTable(6);
     // printMultiplicationTable();
     
+    
 
 
     
